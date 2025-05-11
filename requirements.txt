@@ -1,0 +1,8 @@
+streamlit
+youtube-transcript-api
+langchain
+google-generativeai
+faiss-cpu
+tiktoken
+langchain-google-genai
+langchain-community
