@@ -13,7 +13,7 @@ from langchain_core.messages import HumanMessage, AIMessage
 
 warnings.filterwarnings("ignore")
 
-api_key = 'AIzaSyC7op0zN_EESTSFhXGtzHRYImp5nhvDz-c'  # Replace with your Gemini API key
+api_key = '*** Replace with your Gemini API key ***'
 
 # === CUSTOM CSS STYLING ===
 st.markdown("""
